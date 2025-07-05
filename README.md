@@ -1,22 +1,19 @@
 # 👋 Hi, I'm [Usmon] (Rainxch Zed)
 
 🎯 Passionate about **Android Development**, **UI/UX**, and everything **Jetpack Compose**.  
-💻 Currently building cool stuff with **Kotlin**, exploring **Jetpack Compose**, and playing with animations and custom UI.  
+💻 Currently building cool stuff with **Kotlin**, exploring advanced concepts of **Jetpack Compose** .
 🚀 Always curious, always learning — and having fun while doing it.
 
 ## 🌱 What I'm Learning Now
 
 - Advanced **Jetpack Compose** techniques  
-- **Media3**, video/audio editing tools  
-- Integrating **FFmpeg** in Android  
 - Multiplatform apps with **Kotlin Multiplatform (KMP)**
+- Multiplatform apps with **Compose Multiplatform (CMP)** for iOS and Android (sometimes desktop)
 
 ## 🧠 Tech Stack
 
 - 📱 Android (Kotlin, Jetpack Compose, XML)
 - 🔧 Firebase, Room, Retrofit
-- 🖌️ Canvas API
-- 🎞️ Media3, ExoPlayer
 
 ## 🛠️ Tools I Use
 
@@ -26,7 +23,7 @@
 
 ## 📌 Fun Stuff
 
-- I love building **experimental features** (like confetti triggered by SMS 🥳 or painting apps 🖌️)
+- I love building **experimental features**
 - Participating in community challenges (like **Philipp Lackner’s Mobile Dev Campus**)
 - Turning ideas into mini-projects that teach me something new
 
