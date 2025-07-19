@@ -12,7 +12,8 @@
 ## 🧠 Tech Stack
 
 - 📱 Android (Kotlin, Jetpack Compose, XML)
-- 📤📥 Firebase, Retrofit, Ktor
+- 🔥 Firebase
+- 📤📥 Retrofit, Ktor
 - 📔 Room
 - 🗺️ Clean architecture, SOLID
 - 📚 MVVM, MVI
