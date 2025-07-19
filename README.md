@@ -1,19 +1,21 @@
 # 👋 Hi, I'm [Usmon] (Rainxch Zed)
 
 🎯 Passionate about **Android Development**, **UI/UX**, and everything **Jetpack Compose**.  
-💻 Currently building cool stuff with **Kotlin**, exploring advanced concepts of **Jetpack Compose** .
+💻 Currently building cool stuff with **Kotlin**, exploring advanced concepts of **CMP** .
 🚀 Always curious, always learning — and having fun while doing it.
 
 ## 🌱 What I'm Learning Now
 
 - Advanced **Jetpack Compose** techniques  
-- Multiplatform apps with **Kotlin Multiplatform (KMP)**
 - Multiplatform apps with **Compose Multiplatform (CMP)** for iOS and Android (sometimes desktop)
 
 ## 🧠 Tech Stack
 
 - 📱 Android (Kotlin, Jetpack Compose, XML)
-- 🔧 Firebase, Room, Retrofit
+- 📤📥 Firebase, Retrofit, Ktor
+- 📔 Room
+- 🗺️ Clean architecture, SOLID
+- 📚 MVVM, MVI
 
 ## 🛠️ Tools I Use
 
@@ -29,8 +31,8 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/usmon-narzullayev-457873294/))
-
+- 💼 [LinkedIn] (Blocked because of my age, going to be available next year 🙂)
+- [Email] (undefineduser087@gmail.com)
 ---
 
 Thanks for stopping by!  
