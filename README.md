@@ -1,43 +1,49 @@
-# 👋 Hi, I'm [Usmon] (Rainxch Zed)
+👋 Hey there, I’m Usmon — Rainxch Zed
 
-🎯 Passionate about **Android Development**, **UI/UX**, and everything **Jetpack Compose**.  
-💻 Currently building cool stuff with **Kotlin**, exploring advanced concepts of **CMP** .
-🚀 Always curious, always learning — and having fun while doing it.
+🎯 Android Enthusiast | UI/UX Lover | Kotlin Tinkerer
+💻 Building magic with Jetpack Compose, diving deep into Multiplatform (CMP) realms
+🧪 Always experimenting, always leveling up — one crash log at a time 🚀
+🌱 Currently Growing In:
 
-## 🌱 What I'm Learning Now
+    🧩 Mastering advanced Jetpack Compose UI patterns
 
-- Advanced **Jetpack Compose** techniques  
-- Multiplatform apps with **Compose Multiplatform (CMP)** for iOS and Android (sometimes desktop)
+    📱 Building cross-platform apps with Compose Multiplatform (CMP) — Android, iOS (and even Desktop 👀)
 
-## 🧠 Tech Stack
+🧠 My Toolbox
 
-- 📱 Android (Kotlin, Jetpack Compose, XML)
-- 🔥 Firebase
-- 📤📥 Retrofit, Ktor
-- 📔 Room
-- 🗺️ Clean architecture, SOLID
-- 📚 MVVM, MVI
+Languages & Frameworks:
+Kotlin · Jetpack Compose · XML · Room · Firebase · Retrofit · Ktor
+Architecture:
+MVVM · MVI · Clean Architecture · SOLID Principles
+Dev Tools:
+Android Studio · Git & GitHub · Figma (UI mockups on point ✨)
 
-![Rainxch's GitHub stats](https://github-readme-stats.vercel.app/api?username=XDdevv&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDdevv&theme=tokyonight)
-![Rainxch's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rainxchzed)
-## 🛠️ Tools I Use
+<h3 align="center">📊 Dev Stats</h3>
 
-- Android Studio
-- Git & GitHub
-- Figma (for UI mockups)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XDdevv&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDdevv&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
-## 📌 Fun Stuff
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=XDdevv&theme=tokyonight&hide_border=true" width="98%"/>
+</p>
 
-- I love building **experimental features**
-- Participating in community challenges (like **Philipp Lackner’s Mobile Dev Campus**)
-- Turning ideas into mini-projects that teach me something new
+🎉 Fun Facts
 
-## 📫 Let's Connect!
+    🔬 I love building experimental features and quirky tools
 
-- 💼 [LinkedIn] (Blocked because of my age, going to be available next year 🙂)
-- [Email] (undefineduser087@gmail.com)
----
+    🎓 Learning never stops — I join community challenges like Philipp Lackner’s Mobile Dev Campus
 
-Thanks for stopping by!  
-Feel free to check out my repos or drop a star ⭐ if you see something cool 😄
+    💡 I turn random ideas into small, fun projects that help me grow
+
+📬 Reach Out
+
+    ❌ LinkedIn (coming soon — age limits got me for now 😅)
+
+    📧 Email me at: undefineduser087@gmail.com
+
+Thanks for dropping by!
+If you like what you see, feel free to ⭐ a repo — or just say hi 😊
+
+    "Code it until you make it." 🛠️✨
