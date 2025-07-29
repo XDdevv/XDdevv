@@ -18,6 +18,8 @@
 - 🗺️ Clean architecture, SOLID
 - 📚 MVVM, MVI
 
+![Rainxch's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## 🛠️ Tools I Use
 
 - Android Studio
