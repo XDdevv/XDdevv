@@ -26,7 +26,7 @@ Android Studio · Git & GitHub · Figma (UI mockups on point ✨)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XDdevv&theme=tokyonight&hide_border=true" width="98%"/>
+  <img src="[https://streak-stats.demolab.com?user=XDdevv&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=XDdevv)" width="98%"/>
 </p>
 
 🎉 Fun Facts
