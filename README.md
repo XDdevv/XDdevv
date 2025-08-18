@@ -1,24 +1,32 @@
 👋 Hey there, I’m Usmon — Rainxch Zed
 
-🎯 Android Enthusiast | UI/UX Lover | Kotlin Tinkerer
-💻 Building magic with Jetpack Compose, diving deep into Multiplatform (CMP) realms
-🧪 Always experimenting, always leveling up — one crash log at a time 🚀
-🌱 Currently Growing In:
+🎯 Android Enthusiast · Jetpack Compose Passionate · Kotlin Lover  
 
-    🧩 Mastering advanced Jetpack Compose UI patterns
+I’m building things with Jetpack Compose and exploring Compose Multiplatform across Android, iOS & Desktop. Always experimenting, always learning — one crash log at a time.
 
-    📱 Building cross-platform apps with Compose Multiplatform (CMP) — Android, iOS (and even Desktop 👀)
+---
 
-🧠 My Toolbox
+### 🔧 Currently Learning / Improving
 
-Languages & Frameworks:
+- Advanced Jetpack Compose UI & state patterns
+- Compose Multiplatform (Android + iOS + Desktop)
+
+---
+
+### 🧠 My Toolbox
+
+**Languages & Frameworks**  
 Kotlin · Jetpack Compose · XML · Room · Firebase · Retrofit · Ktor
-Architecture:
-MVVM · MVI · Clean Architecture · SOLID Principles
-Dev Tools:
-Android Studio · Git & GitHub · Figma (UI mockups on point ✨)
 
-<h3 align="center">📊 Dev Stats</h3>
+**Architecture**  
+MVVM · MVI · Clean Architecture · SOLID Principles
+
+**Dev Tools**  
+Android Studio · Git & GitHub · Figma (UI mockups)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XDdevv&show_icons=true&theme=tokyonight" width="48%"/>
@@ -29,25 +37,23 @@ Android Studio · Git & GitHub · Figma (UI mockups on point ✨)
   <img src="https://streak-stats.demolab.com/?user=XDdevv" width="98%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rainxchzed&theme=tokyonight" width="98%"/>
-</p>
+---
 
-🎉 Fun Facts
+### ✨ Fun Facts
 
-    🔬 I love building experimental features and quirky tools
+- I love building experimental features and quirky tools
+- Learning never stops — I join challenges like Philipp Lackner’s Mobile Dev Campus
+- I turn random ideas into small fun projects to grow faster
 
-    🎓 Learning never stops — I join community challenges like Philipp Lackner’s Mobile Dev Campus
+---
 
-    💡 I turn random ideas into small, fun projects that help me grow
+### 📬 Reach Me
 
-📬 Reach Out
+📧 Email → rainxch.dev@gmail.com  
+🔗 LinkedIn → coming soon :)
 
-    ❌ LinkedIn (coming soon — age limits got me for now 😅)
+---
 
-    📧 Email me at: undefineduser087@gmail.com
+> _"Code it until you make it."_
 
-Thanks for dropping by!
-If you like what you see, feel free to ⭐ a repo — or just say hi 😊
-
-    "Code it until you make it." 🛠️✨
+Thanks for dropping by — feel free to ⭐ a repo or just say hi!
