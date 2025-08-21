@@ -28,7 +28,7 @@ Architecture & Patterns
 MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · Square’s Workflow
 
 📊 GitHub Stats
-<p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XDdevv&theme=date_night"> </p> <p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDdevv&theme=date_night"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=XDdevv" width="98%"/> </p>
+<p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XDdevv&theme=date_night"> </p> <p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDdevv&theme=date_night"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=XDdevv&theme=date_night" width="98%"/> </p>
 ✨ Fun Facts
 
 I love building experimental features and quirky tools
