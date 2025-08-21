@@ -28,9 +28,12 @@ Android Studio · Git & GitHub · Figma (UI mockups)
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XDdevv&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDdevv&layout=compact&theme=tokyonight" width="48%"/>
+<p align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XDdevv&theme=date_night">
+</p>
+
+<p align="left"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDdevv&theme=date_night"/>
 </p>
 
 <p align="center">
