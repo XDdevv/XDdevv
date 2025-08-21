@@ -16,14 +16,14 @@ I’m building things with Jetpack Compose and exploring Compose Multiplatform a
 ### 🧠 My Toolbox
 
 **Languages & Frameworks**  
-Kotlin · Jetpack Compose · XML · Room · Firebase · Retrofit · Ktor
+![Static Badge](https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin)
+![Static Badge](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
+![Static Badge](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
+![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
 
 **Architecture**  
-MVVM · MVI · Clean Architecture · SOLID Principles
-
-**Dev Tools**  
-Android Studio · Git & GitHub · Figma (UI mockups)
-
+MVVM · MVI · Clean Architecture · SOLID Principles · (Nowadays playing around with GoF and Workflow (from Square))
 ---
 
 ### 📊 GitHub Stats
