@@ -47,6 +47,19 @@ MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · 
 
 ---
 
+## 🌍 Open Source Contributions
+
+- **[Google’s Android Compose Samples](https://github.com/android/compose-samples)**
+  - [PR #1603](https://github.com/android/compose-samples/pull/1603):  Animate follow icon rotation in Jetcaster
+
+- **[Pokedex (by Skydoves)](https://github.com/skydoves/Pokedex)**
+  - [PR #375](https://github.com/skydoves/Pokedex/pull/375): Migrated to `compilerOptions` DSL to fix Kotlin 2.2.10 + KSP compatibility issues.
+
+- **[RevenueCat Slide-to-Unlock](https://github.com/RevenueCat/slide-to-unlock)**
+  - [PR #2](https://github.com/RevenueCat/slide-to-unlock/pull/2): feat: add vertical orientation support to SlideToUnlock.
+
+---
+
 ## 📬 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-rainxch.dev@gmail.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxch.dev@gmail.com)
