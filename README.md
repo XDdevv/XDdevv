@@ -55,6 +55,11 @@ MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · 
 - **[Pokedex (by Skydoves)](https://github.com/skydoves/Pokedex)**
   - [PR #375](https://github.com/skydoves/Pokedex/pull/375): Migrated to `compilerOptions` DSL to fix Kotlin 2.2.10 + KSP compatibility issues.
 
+- **[Pokedex-compose (by Skydoves)](https://github.com/skydoves/Pokedex-compose)**
+  - [PR #43](https://github.com/skydoves/pokedex-compose/pull/43):  Implement splash screen with red background to match XML version branding
+  - [PR #41](https://github.com/skydoves/pokedex-compose/pull/41):  Add dataExtractionRules to suppress allowBackup deprecation warning and ensure compatibility with Android 12+ backup policies
+  - [PR #42](https://github.com/skydoves/pokedex-compose/pull/42):  Suppress enableOnBackInvokedCallback API level warning with tools:targetApi 
+
 - **[RevenueCat Slide-to-Unlock](https://github.com/RevenueCat/slide-to-unlock)**
   - [PR #2](https://github.com/RevenueCat/slide-to-unlock/pull/2): feat: add vertical orientation support to SlideToUnlock.
 
