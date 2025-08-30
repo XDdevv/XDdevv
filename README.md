@@ -64,7 +64,7 @@ MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · 
   - [PR #42](https://github.com/skydoves/pokedex-compose/pull/42):  Suppress enableOnBackInvokedCallback API level warning with tools:targetApi 
 
 - **[OpenCalc by clementwzk](https://github.com/clementwzk/OpenCalc)**
-  -  Implementez Uzbek language for localization
+  -  Implemented Uzbek language localization for app
 ---
 
 ## 📬 Reach Me
