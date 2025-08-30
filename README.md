@@ -19,8 +19,12 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 ![Kotlin](https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
 ![Android](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
+
+**Favourite IDE's**  
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-181A18?style=for-the-badge&logo=IntelliJIDEA)
 
 **Architecture & Patterns**  
 MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · Square’s Workflow
