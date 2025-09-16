@@ -9,7 +9,7 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 
 - Advanced Jetpack Compose UI patterns & state management
 - Compose Multiplatform (Android + iOS + Desktop)
-- Open-source contribution workflows
+- Open-source contributions
 
 ---
 
@@ -43,11 +43,11 @@ MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · 
 
 ---
 
-## ✨ Fun Facts
+## ✨ Important Facts
 
+- Always learning — I the part of Philipp Lackner’s Mobile Dev Campus community.
+- Currently Mentoring Senior Android Developer about Compose / Android internals
 - I love building experimental features and quirky tools.
-- Always learning — I join challenges like Philipp Lackner’s Mobile Dev Campus.
-- I turn random ideas into small projects to grow faster.
 
 ---
 
