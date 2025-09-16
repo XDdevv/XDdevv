@@ -13,6 +13,32 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 
 ---
 
+## ✨ Important Facts
+
+- I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community.
+- Currently Mentoring Senior Android Developer about Compose / Android internals
+- I love building experimental features and quirky tools.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDdevv&theme=date_night" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XDdevv&theme=date_night" height="180"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=XDdevv&theme=date_night" 
+    width="98%" 
+    style="max-height:400px; object-fit:contain;" 
+    alt="GitHub streak stats"
+  />
+</p>
+
+---
+
 ## 🧰 My Toolbox
 
 **Languages & Frameworks**  
@@ -27,27 +53,7 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-181A18?style=for-the-badge&logo=IntelliJIDEA)
 
 **Architecture & Patterns**  
-MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns · Square’s Workflow
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDdevv&theme=date_night" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XDdevv&theme=date_night" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=XDdevv&theme=date_night" width="98%"/>
-</p>
-
----
-
-## ✨ Important Facts
-
-- Always learning — I the part of Philipp Lackner’s Mobile Dev Campus community.
-- Currently Mentoring Senior Android Developer about Compose / Android internals
-- I love building experimental features and quirky tools.
+MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns
 
 ---
 
