@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Usmon — Rainxch Zed
 
-I'm an **Android Enthusiast**, passionate about **Jetpack Compose** and all things **Kotlin**.  
+I'm an **Native Android Developer**, passionate about **Jetpack Compose** and all things **Kotlin**.  
 Currently building with Compose and exploring Compose Multiplatform (Android · iOS · Desktop). Always experimenting, always learning — one crash log at a time.
 
 ---
@@ -16,8 +16,7 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 ## ✨ Important Facts
 
 - I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community.
-- Currently Mentoring Senior Android Developer about Compose / Android internals
-- I love building experimental features and quirky tools.
+- Currently Mentoring Senior Android Developer about Compose.
 
 ---
 
@@ -80,3 +79,4 @@ MVVM · MVI · Clean Architecture · SOLID Principles · GoF Design Patterns
 ## 📬 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-rainxch.dev@gmail.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxch.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rainxchzed@gmail.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxchzed@gmail.com)
