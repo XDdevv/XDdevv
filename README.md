@@ -40,6 +40,11 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 
 ---
 
+## Wakatime 👀
+![wakatime](https://wakatime.com/badge/user/fdc10ebc-e9f1-44b0-b1e9-148c0c2aed08.svg)
+
+---
+
 ## 🧰 My Toolbox
 
 **Languages & Frameworks**  
