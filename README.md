@@ -8,15 +8,14 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 
 ## 🚀 Currently Focusing On
 
-- Advanced Jetpack Compose UI patterns & state management
 - Compose Multiplatform (Android + iOS + Desktop + Web)
-- Open-source contributions
+- Math
 
 ---
 
 ## ✨ Important Facts
 
-- I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community (also 4 times in-row 1st place holder and in total 5 times 👀).
+- I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community (4 times in-row 1st place holder and in total 5 times 🥇).
 - Currently Mentoring Senior Android Developer about Compose.
 
 ---
