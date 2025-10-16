@@ -9,6 +9,7 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 ## 🚀 Currently Focusing On
 
 - Compose Multiplatform (Android + iOS + Desktop + Web)
+- Open source contributions
 - Math
 
 ---
