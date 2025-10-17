@@ -2,7 +2,7 @@
 ### (a.k.a) Rainxch Zed or just Rain
 
 I'm an **Native Android / Kotlin Multiplatform Developer**, passionate about **Jetpack Compose** and all things **Kotlin**.  
-Currently building with Compose and exploring Compose Multiplatform (Android · iOS · Desktop). Always experimenting, always learning — one crash log at a time.
+Currently building with Compose and exploring Compose Multiplatform (Android · iOS · Desktop).
 
 ---
 
