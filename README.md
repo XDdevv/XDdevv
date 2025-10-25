@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Usmon
-### (a.k.a) Rainxch Zed or just Rain
+### (a.k.a) Rainxch Zed or Rain
 
 I'm an **Native Android / Kotlin Multiplatform Developer**, passionate about **Jetpack Compose** and all things **Kotlin**.  
 Currently building with Compose and exploring Compose Multiplatform (Android · iOS · Desktop).
@@ -48,11 +48,11 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 
 **Languages & Frameworks**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin)
-![Java](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
 ![Android](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-181A18?style=for-the-badge&logo=JetpackCompose&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
+![Java](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
 
 **Favourite IDE's**  
 
